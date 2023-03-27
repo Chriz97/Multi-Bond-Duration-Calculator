@@ -53,8 +53,8 @@ print("Weighted Modified Duration: {:.3f} years".format(weighted_mod_duration))
 This would output:
 
 ```python
-Weighted Macaulay Duration: 7.132 years
-Weighted Modified Duration: 6.827 years
+Weighted Macaulay Duration: 6.037 years
+Weighted Modified Duration: 5.838 years
 ```
 
 ## Conclusion
