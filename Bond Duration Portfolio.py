@@ -62,5 +62,5 @@ weighted_mac_duration, weighted_mod_duration = bond_portfolio_duration(face_valu
                                                                        yield_rates, frequencies)
 
 print("Weighted Macaulay Duration: {:.3f} years".format(weighted_mac_duration))
-print("Weighted Modified Duration: {:.3f} years".format(weighted_mod_duration))
+print("Weighted Modified Duration: {:.3f}".format(weighted_mod_duration))
 
